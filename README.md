@@ -49,7 +49,7 @@ Users should be able to:
 
 ### What I learned
 
-Aprendi sobre: <picture>, classe "sr-only", @media e adquiri mais conhecimento sobre posicionar elementos.
+Aprendi sobre picture, classe "sr-only", @media e adquiri mais conhecimento sobre posicionar elementos.
 
 ### Continued development
 
