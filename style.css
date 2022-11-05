@@ -78,7 +78,7 @@ button:hover {
   background-color: hsl(158, 36%, 20%);
 }
   
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 500px) {
   .container {
     flex-direction: row;
     width: 600px;
